@@ -1,7 +1,7 @@
 pandas 
 numpy 
 xgboost 
-opencv-python 
+opencv-python == 4.12.0.*
 pillow 
 joblib
 streamlit
