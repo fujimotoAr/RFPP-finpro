@@ -4,3 +4,4 @@ xgboost
 opencv-python 
 pillow 
 joblib
+streamlit
